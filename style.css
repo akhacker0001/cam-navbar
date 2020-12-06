@@ -1,0 +1,8 @@
+.b-img{
+    background-image: url("img/noemi-macavei-katocz-zrk7WirlxgM-unsplash.jpg" );
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
